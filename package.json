@@ -20,13 +20,13 @@
     "usdc",
     "base"
   ],
-  "dependencies": {
+  "optionalDependencies": {
     "awal": "2.0.3"
   },
   "author": "tiburonclawd-hub",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tiburonclawd-hub/agentic-wallet-guard"
+    "url": "https://github.com/FrancisZamora/agentic-wallet-guard"
   }
 }
