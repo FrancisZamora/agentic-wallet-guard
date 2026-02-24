@@ -1,0 +1,32 @@
+{
+  "name": "agentic-wallet-guard",
+  "version": "0.2.0",
+  "description": "Security framework for AI agents with crypto wallets — confirmation codes, allowlists, rate limits, and kill switches.",
+  "type": "module",
+  "main": "src/guard.mjs",
+  "bin": {
+    "awg": "src/cli.mjs"
+  },
+  "scripts": {
+    "test": "node --test src/**/*.test.mjs"
+  },
+  "keywords": [
+    "ai-agent",
+    "wallet",
+    "security",
+    "coinbase",
+    "agentic",
+    "crypto",
+    "usdc",
+    "base"
+  ],
+  "dependencies": {
+    "awal": "2.0.3"
+  },
+  "author": "franciszamora",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrancisZamora/agentic-wallet-guard"
+  }
+}
