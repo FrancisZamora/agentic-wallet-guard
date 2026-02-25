@@ -1,6 +1,7 @@
 # 🔒 Agentic Wallet Guard
 
 [![CI](https://github.com/FrancisZamora/agentic-wallet-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/FrancisZamora/agentic-wallet-guard/actions/workflows/ci.yml)
+[![GitHub Release](https://img.shields.io/github/v/release/FrancisZamora/agentic-wallet-guard)](https://github.com/FrancisZamora/agentic-wallet-guard/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **A security framework for AI agents with crypto wallets.**
