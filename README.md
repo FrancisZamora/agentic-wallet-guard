@@ -1,5 +1,8 @@
 # 🔒 Agentic Wallet Guard
 
+[![CI](https://github.com/FrancisZamora/agentic-wallet-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/FrancisZamora/agentic-wallet-guard/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **A security framework for AI agents with crypto wallets.**
 
 AI agents are getting wallets. But who guards the guard? This framework adds human-in-the-loop verification, allowlists, rate limits, and kill switches to prevent unauthorized transactions from agentic wallets.
